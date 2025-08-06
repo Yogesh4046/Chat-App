@@ -28,4 +28,7 @@ It uses **Socket.IO** for real-time messaging and **JWT** for basic user authent
 - 💾 **Message Persistence** (saved in MongoDB)
 - 🟢 **Online User Indicator** (basic)
 
-
+---
+## Deployment
+- https://chat-app-3u44.onrender.com
+- Note: Deployed on render so it might shutdown due to inactivity
